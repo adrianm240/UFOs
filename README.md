@@ -6,13 +6,13 @@ The purpose of this project was to create a website about UFO sightings using Ja
 A visitor to this website could filter the UFO table to return sighting thats meet the criterias of their choosing. The visitor could filter on one or up to five different criterias, such as date, city, state, country, and shape.
 
 ### No filters
-
+![](static/images/no_filters.png)
 
 ### One Filter
-
+![](static/images/one_filter.png)
 
 ### Three Filters
-
+![](static/images/three_filters.png)
 
 ## Project Summary
 ### Webpage Drawback
